@@ -1,0 +1,490 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+CM003076.1:10923916..10932768|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003076.1:11040168..11043984|Copia	LTR	Copia	tork	no	-	GAG|tork AP|tork
+CM003076.1:124577..132121|Copia	LTR	Copia	tork	no	-	INT|copia RT|tork RNaseH|tork
+CM003076.1:13701487..13707935|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:14453429..14456958|Gypsy	LTR	Gypsy	tat	no	+	GAG|tat
+CM003076.1:14690404..14695690|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003076.1:14855327..14860867|Gypsy	LTR	Gypsy	reina	no	-	AP|del RT|reina RNaseH|reina INT|reina
+CM003076.1:15169385..15176514|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat AP|tat RT|tat RNaseH|tat
+CM003076.1:15277439..15283935|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:15511664..15517188|Copia	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+CM003076.1:15698639..15703830|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003076.1:16652905..16661793|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003076.1:16758105..16763121|Copia	LTR	Copia	retrofit	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003076.1:16805279..16812975|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:17590830..17602169|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003076.1:17834186..17838614|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003076.1:18305872..18312161|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:19038801..19044739|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003076.1:19472702..19484162|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003076.1:20501677..20508163|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:20777077..20783525|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:21775436..21780209|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003076.1:2228972..2235420|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:22645978..22651192|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003076.1:2373463..2375571|Copia	LTR	Copia	oryco	no	-	GAG|oryco
+CM003076.1:24995829..25001013|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003076.1:25492208..25498664|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:26484827..26490099|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003076.1:27700364..27705379|Copia	LTR	Copia	retrofit	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003076.1:27774128..27778915|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003076.1:28408497..28413212|Gypsy	LTR	Gypsy	reina	no	+	GAG|reina AP|reina RT|reina RNaseH|reina
+CM003076.1:29967811..29974205|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:31191680..31197341|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003076.1:33053293..33058168|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003076.1:34033060..34035071|Copia	LTR	Copia	oryco	no	-	GAG|oryco
+CM003076.1:35157562..35162477|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003076.1:36642767..36647884|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003076.1:37324225..37329738|Copia	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+CM003076.1:3818562..3824999|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:5264495..5269655|Gypsy	LTR	Gypsy	reina	no	-	AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003076.1:5702754..5709202|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:697383..702493|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003076.1:7256140..7261593|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003076.1:7979852..7991106|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003076.1:8354725..8359135|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003076.1:8909522..8915970|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003077.1:11311733..11320926|Gypsy	LTR	Gypsy	reina	no	-	AP|reina RT|reina RNaseH|reina INT|reina
+CM003077.1:1148777..1155225|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003077.1:11883244..11892473|Copia	LTR	Copia	sire	yes	+	GAG|sire AP|sire INT|sire RT|sire RNaseH|sire
+CM003077.1:12119641..12126255|Gypsy	LTR	Gypsy	tat	no	+	INT|tat
+CM003077.1:13332914..13338535|Gypsy	LTR	Gypsy	tat	no	+	INT|tat
+CM003077.1:13717747..13721650|Gypsy	LTR	Gypsy	reina	no	+	GAG|reina AP|reina RT|reina RNaseH|reina
+CM003077.1:137907..144358|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003077.1:13796589..13802745|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003077.1:13875718..13880423|Gypsy	LTR	Gypsy	crm	no	+	AP|crm
+CM003077.1:14147241..14156282|Copia	LTR	Copia	sire	yes	-	GAG|sire AP|sire INT|sire RT|sire RNaseH|sire
+CM003077.1:14610475..14615004|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003077.1:14978904..14990252|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003077.1:15381345..15389183|Gypsy	LTR	Gypsy	crm	yes	-	GAG|crm AP|crm RT|crm RNaseH|crm INT|crm
+CM003077.1:16111429..16116439|Copia	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003077.1:16557803..16563016|Copia	LTR	Copia	retrofit	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003077.1:16589792..16595026|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003077.1:17361796..17366203|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003077.1:17373910..17379297|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003077.1:17517405..17522745|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003077.1:18759460..18764604|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003077.1:21054259..21060587|Copia	LTR	Copia	tork	no	-	AP|tork GAG|tork
+CM003077.1:21487067..21493076|Copia	LTR	Copia	tork	no	-	GAG|tork AP|tork RT|tork RNaseH|tork
+CM003077.1:23181092..23187532|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003077.1:23292034..23297445|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003077.1:24491541..24496944|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003077.1:27068740..27080813|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003077.1:27961184..27964544|Copia	LTR	Copia	tork	no	+	GAG|tork AP|tork
+CM003077.1:2812094..2816810|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003077.1:29204888..29210885|Copia	LTR	Copia	tork	no	-	GAG|tork AP|tork RT|tork RNaseH|tork
+CM003077.1:31217968..31223168|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003077.1:3166610..3173057|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003077.1:3242120..3247606|Copia	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003077.1:367921..372880|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003077.1:7631664..7637154|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003077.1:8686411..8691472|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003077.1:8762938..8767346|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003077.1:8831703..8838139|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003077.1:9260361..9265907|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003077.1:9609493..9620976|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003078.1:10814118..10825731|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003078.1:11119628..11124066|Copia	LTR	Copia	retrofit	no	-	GAG|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003078.1:13346701..13360801|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003078.1:14367551..14382700|Gypsy	LTR	Gypsy	tat	no	-	AP|tat RT|tat RNaseH|tat INT|tat
+CM003078.1:15252023..15257300|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003078.1:16101754..16107010|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003078.1:16222135..16226598|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003078.1:16625090..16630215|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003078.1:16646350..16651122|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003078.1:16708478..16718108|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003078.1:16793716..16800203|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003078.1:17458858..17466032|Copia	LTR	Copia	mixture	no	+	INT|copia RT|tork RNaseH|pCretro
+CM003078.1:18285077..18292895|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat
+CM003078.1:18806928..18811779|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003078.1:18842827..18848703|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003078.1:18994299..19001885|Copia	LTR	Copia	tork	no	-	INT|copia RT|tork RNaseH|tork
+CM003078.1:20770043..20774774|unknown	LTR	Gypsy	crm	no	+	AP|crm
+CM003078.1:22338541..22346946|Gypsy	LTR	Gypsy	del	no	+	GAG|del AP|del RT|del INT|del CHR|retroelement
+CM003078.1:23082404..23087215|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003078.1:2399922..2410752|Gypsy	LTR	Gypsy	reina	no	?	INT|reina RT|reina RNaseH|reina CHR|retroelement AP|reina GAG|reina
+CM003078.1:2403405..2408633|Gypsy	LTR	Gypsy	reina	no	+	AP|del RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003078.1:26485549..26492020|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003078.1:28677142..28686423|unknown	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork CHR|retroelement
+CM003078.1:28678480..28684966|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003078.1:30141193..30146859|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003078.1:30393007..30402296|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003078.1:31594327..31599586|Copia	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+CM003078.1:32075711..32082183|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003078.1:33632212..33637483|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003078.1:472327..478775|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003078.1:4728515..4734686|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003079.1:11813361..11823866|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003079.1:12602929..12609385|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:12709777..12716225|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:13154236..13160380|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003079.1:1400585..1409781|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat AP|tat RT|tat RNaseH|tat
+CM003079.1:1435796..1440569|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003079.1:14580969..14587435|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:14669608..14674824|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003079.1:1573351..1584655|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003079.1:15865111..15871302|Copia	LTR	Copia	mixture	no	-	INT|copia RT|tork RNaseH|pCretro
+CM003079.1:17668340..17673538|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003079.1:18707505..18713961|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:1897064..1903020|Gypsy	LTR	Gypsy	reina	no	-	AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003079.1:20499867..20512724|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003079.1:21606365..21612813|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:21948652..21953083|Copia	LTR	Copia	retrofit	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003079.1:22579153..22584333|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003079.1:23522050..23528282|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003079.1:24936340..24942780|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:24962451..24968891|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:25525882..25530982|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:26602934..26608962|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003079.1:27408027..27413456|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003079.1:3082304..3088378|Gypsy	LTR	Gypsy	athila	no	-	GAG|athila
+CM003079.1:3525320..3538874|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003079.1:4401346..4406594|Gypsy	LTR	Gypsy	reina	no	-	AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003079.1:4654070..4660551|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:6378158..6384614|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:6577438..6581845|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003079.1:6724666..6729110|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003079.1:6746981..6753467|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:7659030..7665486|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003079.1:8038585..8044161|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003079.1:8288916..8294442|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003079.1:8322399..8331187|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003079.1:8357277..8374636|Gypsy	LTR	Gypsy	tat	no	-	AP|tat RT|tat RNaseH|tat INT|tat
+CM003080.1:10000612..10011986|Gypsy	LTR	Gypsy	tat	no	+	GAG|tat AP|tat INT|tat
+CM003080.1:10073457..10077863|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003080.1:10855442..10866755|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003080.1:11119861..11124685|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003080.1:11957470..11966944|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003080.1:12057071..12063507|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:12155205..12161651|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:13103103..13107892|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003080.1:13594860..13605223|Copia	LTR	Copia	sire	yes	-	GAG|sire AP|sire INT|sire RT|sire RNaseH|sire
+CM003080.1:1368802..1373823|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003080.1:13916040..13921374|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003080.1:14380699..14391336|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003080.1:14689808..14694213|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003080.1:14983419..14985214|Copia	LTR	Copia	tork	no	+	AP|tork GAG|tork
+CM003080.1:17308273..17314721|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:17948708..17954627|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003080.1:18945830..18950678|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003080.1:1952863..1959311|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:19939741..19951021|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003080.1:20563150..20574353|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003080.1:2129799..2136233|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:21354406..21359214|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003080.1:22238583..22250228|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003080.1:22617090..22622100|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003080.1:23578553..23583302|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003080.1:23656313..23658728|Copia	LTR	Copia	oryco	no	-	GAG|oryco
+CM003080.1:24205196..24211667|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:24278820..24285306|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:2463546..2469994|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:3039775..3045253|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003080.1:4134609..4140165|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003080.1:4412959..4420597|Copia	LTR	Copia	tork	no	+	INT|copia RT|tork RNaseH|tork
+CM003080.1:5349272..5354511|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003080.1:6215954..6221144|Copia	LTR	Copia	retrofit	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003080.1:7128386..7134360|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003080.1:736374..742368|Copia	LTR	Copia	tork	no	-	GAG|tork AP|tork RT|tork RNaseH|tork
+CM003080.1:7596659..7602706|Gypsy	LTR	Gypsy	reina	no	-	AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003080.1:7611527..7617993|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:7776593..7782975|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003080.1:8803038..8808319|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003080.1:9264174..9273283|Gypsy	LTR	Gypsy	athila	no	-	GAG|athila RT|athila RNaseH|athila INT|athila
+CM003080.1:9606723..9618858|Gypsy	LTR	Gypsy	athila	no	-	RT|athila RNaseH|athila INT|athila
+CM003080.1:9641915..9647335|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003081.1:12186105..12196881|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003081.1:12524899..12536435|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003081.1:12580776..12583557|Gypsy	LTR	Gypsy	crm	no	+	INT|crm
+CM003081.1:12972107..12979855|Gypsy	LTR	Gypsy	crm	yes	+	GAG|crm AP|crm RT|crm RNaseH|crm INT|crm
+CM003081.1:13373116..13383415|Gypsy	LTR	Gypsy	crm	yes	+	GAG|crm AP|crm RT|crm RNaseH|crm INT|crm
+CM003081.1:13392454..13400064|Gypsy	LTR	mixture	mixture	unknown	+	INT|del CHR|retroelement
+CM003081.1:13698944..13703354|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003081.1:13946657..13951063|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003081.1:14620052..14627725|Gypsy	LTR	Gypsy	athila	no	+	GAG|athila
+CM003081.1:14781190..14787163|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003081.1:14938124..14948738|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003081.1:14958964..14965031|Copia	LTR	Copia	tork	no	-	GAG|tork AP|tork RT|tork RNaseH|tork
+CM003081.1:16596931..16603400|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003081.1:16687282..16698020|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003081.1:17146613..17151615|Copia	LTR	Copia	tork	no	-	GAG|tork RT|tork RNaseH|tork
+CM003081.1:17229510..17239111|Gypsy	LTR	Gypsy	tat	no	+	GAG|tat RT|tat RNaseH|tat INT|tat
+CM003081.1:17385998..17392429|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003081.1:17687664..17695797|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003081.1:19367616..19374102|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003081.1:19873327..19878100|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003081.1:19897043..19902511|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|del RT|reina RNaseH|reina INT|reina
+CM003081.1:20640456..20646904|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003081.1:20911368..20916177|Copia	LTR	Copia	retrofit	no	-	AP|retrofit INT|copia RT|tork RNaseH|retrofit
+CM003081.1:22049097..22054281|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003081.1:23137681..23143313|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003081.1:23583365..23588991|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|all
+CM003081.1:24219519..24225950|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003081.1:24665797..24670681|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003081.1:25033951..25040385|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003081.1:4028856..4033567|Gypsy	LTR	Gypsy	reina	no	+	AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003081.1:5379016..5383422|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003081.1:6573441..6579107|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003081.1:6759812..6764873|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003081.1:6835490..6840308|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003081.1:7951770..7957408|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003081.1:8499027..8503463|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003081.1:9486156..9490551|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003081.1:9788514..9794952|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:10896607..10908791|Copia	LTR	Copia	sire	yes	+	GAG|sire AP|sire INT|sire RT|sire RNaseH|sire ENV|sire
+CM003082.1:11024465..11031304|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:11386095..11390489|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003082.1:11540830..11552219|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003082.1:11559918..11566394|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:11947344..11954106|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:11979045..11983893|unknown	LTR	Copia	retrofit	no	-	AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:12218276..12229979|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003082.1:12662225..12671274|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003082.1:12830716..12835969|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:12906713..12915973|Copia	LTR	Copia	sire	yes	+	GAG|sire AP|sire INT|sire RT|sire RNaseH|sire
+CM003082.1:1297518..1303966|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:13725865..13730271|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003082.1:14344278..14349193|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003082.1:14379735..14385212|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:15463807..15467988|Copia	LTR	Copia	retrofit	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:16015053..16020521|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003082.1:16481852..16487525|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003082.1:16535988..16539615|unknown	LTR	Copia	retrofit	no	-	INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:16992392..16997576|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003082.1:17015805..17021342|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003082.1:17220655..17227102|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:17340998..17346212|Copia	LTR	Copia	retrofit	no	-	AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:18152139..18156574|Copia	LTR	Copia	retrofit	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:18319621..18326069|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:19621306..19627720|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:20755138..20760493|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:20795513..20801211|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003082.1:21019146..21030837|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003082.1:2120996..2126018|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003082.1:2236173..2241444|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003082.1:2372219..2377436|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003082.1:24168411..24174059|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003082.1:24310144..24314958|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:24864483..24867791|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|sire RNaseH|retrofit
+CM003082.1:3789124..3794325|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|del RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003082.1:3957987..3964438|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:4712152..4717605|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003082.1:5106587..5111018|Copia	LTR	Copia	retrofit	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:5449148..5453263|Copia	LTR	Copia	tork	no	-	AP|tork RT|tork RNaseH|tork
+CM003082.1:6022950..6030634|Copia	LTR	Copia	mixture	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|1731
+CM003082.1:6089685..6095027|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003082.1:6197903..6203455|Copia	LTR	Copia	tork	no	+	AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:6446864..6456127|Copia	LTR	Copia	sire	yes	-	GAG|sire AP|sire INT|sire RT|sire RNaseH|sire
+CM003082.1:6930599..6940240|Copia	LTR	mixture	mixture	unknown	+	GAG|crm AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+CM003082.1:6931300..6935465|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003082.1:6967434..6973888|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:759681..766128|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:7969503..7974874|Copia	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003082.1:8537259..8543715|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:8696944..8702126|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003082.1:9072638..9077389|unknown	LTR	Gypsy	crm	no	-	AP|crm
+CM003082.1:9217784..9224280|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003082.1:9605871..9612808|Gypsy	LTR	Gypsy	mixture	no	+	GAG|athila INT|tat
+CM003083.1:10006630..10014378|Gypsy	LTR	Gypsy	crm	yes	+	GAG|crm AP|crm RT|crm RNaseH|crm INT|crm
+CM003083.1:10698529..10706284|Gypsy	LTR	Gypsy	crm	yes	+	GAG|crm AP|crm RT|crm RNaseH|crm INT|crm
+CM003083.1:11179721..11186149|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003083.1:12313492..12318731|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003083.1:12502384..12514003|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003083.1:12730153..12736582|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003083.1:1284833..1290493|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003083.1:13869073..13874205|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003083.1:13936117..13949622|Gypsy	LTR	Gypsy	tat	no	+	GAG|tat RT|tat RNaseH|athila INT|tat
+CM003083.1:14011075..14015515|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003083.1:14497930..14507132|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003083.1:14945811..14952308|Copia	LTR	Copia	sire	no	-	GAG|sire
+CM003083.1:14956060..14962412|Copia	LTR	Copia	sire	no	+	GAG|sire
+CM003083.1:15220100..15225696|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003083.1:15431906..15437367|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003083.1:16185178..16189584|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003083.1:17608436..17613530|Copia	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+CM003083.1:18104404..18109794|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003083.1:18211525..18217994|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003083.1:19150116..19155097|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003083.1:19514997..19520175|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|del RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003083.1:20272551..20277735|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003083.1:21465606..21470685|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003083.1:21670473..21675260|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003083.1:22277188..22283644|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003083.1:3445056..3450945|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003083.1:3495268..3501206|Copia	LTR	Copia	tork	no	-	INT|copia RT|tork RNaseH|tork
+CM003083.1:5273580..5284959|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003083.1:5273580..5287227|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003083.1:5320899..5326459|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003083.1:5533496..5540398|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat RT|tat RNaseH|tat INT|tat
+CM003083.1:5715416..5721426|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003083.1:5728188..5733459|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003083.1:5800787..5804609|Gypsy	LTR	Gypsy	athila	no	-	GAG|athila
+CM003083.1:5806947..5809665|Gypsy	LTR	Gypsy	reina	no	-	RNaseH|reina INT|reina
+CM003083.1:6496187..6507555|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003083.1:7157377..7169091|Gypsy	LTR	Gypsy	athila	no	-	GAG|athila AP|athila
+CM003083.1:7348781..7354483|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003083.1:7446621..7456706|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat RT|tat RNaseH|tat INT|tat
+CM003083.1:7510726..7516032|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003083.1:8860392..8869493|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat INT|tat
+CM003083.1:9032393..9038273|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003083.1:9189797..9194665|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003083.1:9947615..9952022|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003083.1:9997126..10003574|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003084.1:10126964..10139192|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat AP|tat RT|tat RNaseH|tat
+CM003084.1:10452249..10459033|Copia	LTR	Copia	mixture	no	+	INT|oryco RT|copia RNaseH|tork
+CM003084.1:10852203..10858670|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003084.1:13268581..13273419|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003084.1:14865898..14870696|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003084.1:1718778..1731427|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003084.1:17432353..17438834|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003084.1:1801352..1807561|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003084.1:18506345..18508453|Copia	LTR	Copia	oryco	no	-	GAG|oryco
+CM003084.1:1871164..1878912|Gypsy	LTR	Gypsy	crm	yes	-	GAG|crm AP|crm RT|crm RNaseH|crm INT|crm
+CM003084.1:19487519..19499856|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003084.1:1977793..1988298|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003084.1:2030018..2034424|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003084.1:2054266..2063351|Gypsy	LTR	Gypsy	athila	no	-	GAG|athila AP|athila
+CM003084.1:2107339..2111745|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003084.1:2129141..2137610|Gypsy	LTR	Gypsy	tat	no	+	GAG|tat AP|tat RT|tat
+CM003084.1:2778615..2783825|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003084.1:2835431..2841851|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003084.1:3142828..3158177|Gypsy	LTR	Gypsy	del	no	-	GAG|tat AP|del RNaseH|del INT|del CHR|retroelement RT|tat
+CM003084.1:3172132..3183487|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003084.1:3220795..3225307|Copia	LTR	Copia	oryco	no	+	GAG|oryco AP|oryco RT|oryco RNaseH|oryco
+CM003084.1:323082..328341|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003084.1:347435..357692|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003084.1:3879951..3886422|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003084.1:4750472..4755485|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003084.1:5476989..5484254|Gypsy	LTR	Gypsy	tat	no	+	INT|tat
+CM003084.1:5840964..5846527|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003084.1:5967571..5972464|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003084.1:6286281..6291952|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003084.1:6422738..6433031|Gypsy	LTR	Gypsy	tat	no	+	GAG|tat RT|tat RNaseH|tat INT|tat
+CM003084.1:6495874..6506457|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003084.1:6575709..6583400|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003084.1:6808852..6820214|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003084.1:6894390..6899907|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003084.1:6938412..6948792|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003084.1:7398360..7405433|Gypsy	LTR	Gypsy	athila	no	+	GAG|athila
+CM003084.1:781915..787587|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003084.1:7981225..7986484|Copia	LTR	Copia	retrofit	no	+	GAG|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003084.1:8231765..8237041|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003084.1:9132044..9136767|Copia	LTR	Copia	retrofit	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003084.1:9408135..9413056|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003085.1:10535072..10537148|Copia	LTR	Copia	oryco	no	-	GAG|oryco
+CM003085.1:10545307..10551398|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003085.1:11201133..11213121|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003085.1:11656186..11662187|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003085.1:12055791..12059716|Copia	LTR	Copia	tork	no	+	GAG|tork AP|tork
+CM003085.1:12130810..12136028|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003085.1:12258076..12262189|Copia	LTR	Copia	retrofit	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003085.1:12690290..12695068|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003085.1:1609746..1614462|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|tork RNaseH|retrofit
+CM003085.1:16388596..16394283|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|all
+CM003085.1:1733769..1738970|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003085.1:18461421..18467347|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003085.1:18790505..18796203|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003085.1:19555783..19561368|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003085.1:2448921..2453677|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003085.1:5987734..5992857|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003085.1:6167514..6179446|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003085.1:6409308..6413715|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003085.1:6707236..6711597|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003085.1:7077224..7081593|Copia	LTR	Copia	retrofit	no	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit
+CM003085.1:7760895..7768438|Gypsy	LTR	Gypsy	crm	yes	+	GAG|crm AP|crm RT|crm RNaseH|crm INT|crm
+CM003085.1:8679357..8685777|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003085.1:9794974..9800319|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003086.1:1001311..1007803|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:10648367..10658897|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003086.1:10913203..10922160|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003086.1:11325649..11337050|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003086.1:11853858..11862874|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003086.1:14060581..14066892|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:14775802..14782766|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:14995772..15002698|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:15663039..15667425|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003086.1:15943120..15951126|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003086.1:16000352..16013617|Gypsy	LTR	Gypsy	del	yes	+	GAG|del AP|del RT|del RNaseH|del INT|del CHR|retroelement
+CM003086.1:17373960..17385907|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003086.1:17749922..17761475|Copia	LTR	Copia	sire	yes	-	GAG|sire AP|sire INT|sire RT|sire RNaseH|sire
+CM003086.1:19185950..19192431|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:1955470..1960546|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:20142561..20147896|Copia	LTR	Copia	retrofit	no	+	GAG|retrofit AP|ty1/copia INT|retrofit RT|tork
+CM003086.1:20160950..20166067|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003086.1:20353331..20359337|Copia	LTR	Copia	tork	no	-	GAG|tork AP|tork RT|tork RNaseH|tork
+CM003086.1:20377407..20383046|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003086.1:21955529..21960999|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003086.1:22134757..22140458|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003086.1:22930038..22935264|Copia	LTR	Copia	retrofit	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|retrofit
+CM003086.1:23584425..23596964|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003086.1:23635246..23642909|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat INT|tat
+CM003086.1:2589567..2594964|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003086.1:3246101..3251162|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003086.1:4001076..4007542|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:4315949..4320355|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003086.1:4503036..4508635|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003086.1:6265039..6269440|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003086.1:6516909..6522721|Gypsy	LTR	Gypsy	athila	no	-	GAG|athila INT|athila
+CM003086.1:6624798..6632480|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:6768139..6774587|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:6798157..6802563|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+CM003086.1:6818156..6824024|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003086.1:693113..698032|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm AP|crm
+CM003086.1:7144178..7148584|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003086.1:7205336..7209737|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003086.1:7451502..7456681|Gypsy	LTR	Gypsy	reina	no	-	AP|del RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003086.1:7865456..7876918|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003086.1:825443..831891|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:8782209..8788657|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003086.1:8962974..8970468|Gypsy	LTR	Gypsy	tat	no	-	INT|tat
+CM003087.1:10051757..10058182|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:10513563..10522324|Gypsy	LTR	Gypsy	del	no	-	GAG|del
+CM003087.1:10614280..10620728|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:10736522..10741994|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003087.1:11176064..11180711|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003087.1:11231471..11236494|Gypsy	LTR	Gypsy	reina	no	+	AP|del RT|reina RNaseH|reina INT|reina
+CM003087.1:11360512..11365818|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat RNaseH|tat
+CM003087.1:11500408..11506845|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:1230692..1235530|Copia	LTR	Copia	retrofit	yes	+	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003087.1:12835841..12842295|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:13993683..14004516|Gypsy	LTR	Gypsy	tat	no	-	GAG|tat RT|tat RNaseH|tat INT|tat
+CM003087.1:14018487..14024935|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:14161636..14166697|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003087.1:15688386..15693834|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003087.1:1591652..1598100|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:16165202..16171658|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:16399104..16404305|Copia	LTR	Copia	oryco	yes	-	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003087.1:16829510..16834583|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:18857598..18867381|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003087.1:19258808..19265256|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:20197246..20203694|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:2070834..2075755|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003087.1:21661757..21667404|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+CM003087.1:21854164..21859086|Copia	LTR	Copia	oryco	yes	+	GAG|oryco AP|oryco INT|oryco RT|oryco RNaseH|oryco
+CM003087.1:2793976..2808854|Gypsy	LTR	Gypsy	tat	yes	-	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003087.1:4489238..4502945|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003087.1:4960705..4974499|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003087.1:5361781..5366842|Copia	LTR	Copia	retrofit	yes	-	GAG|retrofit AP|retrofit INT|retrofit RT|retrofit RNaseH|retrofit
+CM003087.1:7375978..7387363|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003087.1:8024203..8036013|Gypsy	LTR	Gypsy	tat	yes	+	GAG|tat AP|tat RT|tat RNaseH|tat INT|tat
+CM003087.1:8316915..8322384|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+CM003087.1:8606606..8613043|Copia	LTR	Copia	tork	yes	-	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+CM003087.1:8841760..8849247|Gypsy	LTR	Gypsy	athila	no	+	GAG|athila
+CM003087.1:9542195..9546600|Gypsy	LTR	Gypsy	crm	no	+	GAG|crm
+JSUG01010640.1:14873..21047|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+JSUG01010705.1:16015..17910|Copia	LTR	Copia	oryco	no	+	GAG|oryco
+JSUG01010716.1:7232..15708|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina
+JSUG01010722.1:3800..9445|Gypsy	LTR	Gypsy	reina	yes	+	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|all
+KN723774.1:37187..41583|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+KN723796.1:17302..22906|Gypsy	LTR	Gypsy	reina	yes	-	GAG|reina AP|reina RT|reina RNaseH|reina INT|reina CHR|retroelement
+KN723799.1:11522..18013|Copia	LTR	Copia	tork	yes	+	GAG|tork AP|tork INT|tork RT|tork RNaseH|tork
+KN723818.1:14957..20205|Gypsy	LTR	Gypsy	reina	no	-	AP|del RT|reina RNaseH|reina INT|reina CHR|retroelement
+KN723879.1:14800..19446|Gypsy	LTR	Gypsy	crm	no	-	RT|crm RNaseH|crm INT|crm
+KN723912.1:13446..19583|Copia	LTR	Copia	tork	no	+	GAG|tork AP|tork RT|tork RNaseH|tork
+KN723964.1:9303..18299|Gypsy	LTR	Gypsy	crm	yes	-	GAG|crm AP|crm RT|crm RNaseH|crm INT|crm
+KN724004.1:7380..11786|Gypsy	LTR	Gypsy	crm	no	-	GAG|crm
+CM003083.1:11259392..11262045|Gypsy	LTR	Gypsy	unknown	none	?	none
+CM003086.1:5269231..5272734|Gypsy	LTR	Gypsy	unknown	none	?	none
+KN723913.1:5818..8470|unknown	LTR	Gypsy	unknown	none	?	none
+KN724325.1:692..2441|unknown	LTR	Gypsy	unknown	none	?	none
